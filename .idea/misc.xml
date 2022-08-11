@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Admin/ASM_lambtph16545/app/src/main/res/layout/activity_img.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/Admin/ASM_lambtph16545/app/src/main/res/layout/activity_main.xml" value="0.21041666666666667" />
+        <entry key="..\:/Users/Admin/ASM_lambtph16545/app/src/main/res/layout/item.xml" value="0.1578125" />
+        <entry key="..\:/Users/Admin/AndroidProject/ASM_lambtph16545/app/src/main/res/drawable-anydpi/ic_action_name.xml" value="0.1085" />
+        <entry key="..\:/Users/Admin/AndroidProject/ASM_lambtph16545/app/src/main/res/layout/activity_img.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/Admin/AndroidProject/ASM_lambtph16545/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Admin/AndroidProject/ASM_lambtph16545/app/src/main/res/layout/activity_test.xml" value="0.19701086956521738" />
+        <entry key="..\:/Users/Admin/AndroidProject/ASM_lambtph16545/app/src/main/res/layout/item.xml" value="0.264" />
+        <entry key="..\:/Users/Admin/AndroidProject/ASM_lambtph16545/app/src/main/res/layout/item_click.xml" value="0.19701086956521738" />
+        <entry key="..\:/Users/Admin/AndroidProject/ASM_lambtph16545/app/src/main/res/layout/visibility-48px.xml" value="0.1956521739130435" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
