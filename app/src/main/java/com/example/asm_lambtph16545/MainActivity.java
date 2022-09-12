@@ -30,8 +30,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         recyclerView=findViewById(R.id.recycler);
-
-
 //        mlist.add(new Photos1(R.drawable.a));
 //        mlist.add(new Photos1(R.drawable.a2));
 //        mlist.add(new Photos1(R.drawable.a3));
